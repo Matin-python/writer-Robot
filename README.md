@@ -69,9 +69,9 @@ Do not move focus away from the target window while the script is running.
 ## License
 
 This project is open-source and free to use.
----
 
-Author
+
+## Author
 
     Mohammad Reza Bakhshandeh
     Electrical Engineering Graduate | Python Learner
