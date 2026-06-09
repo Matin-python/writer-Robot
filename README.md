@@ -68,11 +68,12 @@ Do not move focus away from the target window while the script is running.
 
 ## License
 
-This project is open-source and free to use.
-
+This project is licensed under the MIT License.
 
 ## Author
 
-    Mohammad Reza Bakhshandeh
-    Electrical Engineering Graduate | Python Learner
-    Interested in AI and Problem Solving
+**Mohammad Reza Bakhshandeh**
+
+Electrical Engineering (Electronics) Graduate
+
+Interested in Python Development, Computer Vision, Machine Learning, and Artificial Intelligence.
