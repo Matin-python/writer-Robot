@@ -49,7 +49,7 @@ pip install pyautogui
 Run the script using:
 
 ```bash
-python main.py
+python writer.py
 ```
 
 Make sure your cursor is focused on a text field (like Notepad, VS Code, or a chat box) before the 3-second timer ends.
